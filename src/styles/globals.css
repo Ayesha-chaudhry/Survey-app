@@ -1,0 +1,32 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+  @import url('https://fonts.googleapis.com/css2?family=McLaren&display=swap');
+
+
+*{
+	font-family: 'McLaren', cursive !important;
+}
+.animate {
+	transform: translateY(0) !important;
+  }
+
+  @keyframes blink {
+	0% {
+	  opacity: 1;
+	}
+	10% {
+	  opacity: 0;
+	}
+	20% {
+	  opacity: 1;
+	}
+	30% {
+	  opacity: 0;
+	}
+	40% {
+	  opacity: 1;
+	}
+  }
