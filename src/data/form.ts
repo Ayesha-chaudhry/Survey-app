@@ -1,5 +1,5 @@
-import { IFormData } from "../../types/form_data";
-export const data: IFormData[] = [
+
+export const data:any= [
   {
     id: 1,
     que: "What part of the world do you live in?",

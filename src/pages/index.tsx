@@ -14,9 +14,7 @@ import Question12 from "@/ui/Question12";
 import Question13 from "@/ui/Question13";
 import Question14 from "@/ui/Question14";
 import Question15 from "@/ui/Question15";
-import Question16 from "@/components/Question16ol";
 import Question17 from "@/components/Question17";
-import QueIrt from "@/ui/QueIrt";
 import Question6 from "@/ui/Question6";
 import Question18 from "@/ui/Question16";
 import Question19 from "@/components/Question19";
@@ -50,7 +48,7 @@ export default function Home() {
       {/* <Question13/> */}
       {/* <Question14/> */}
       {/* <Question15/> */}
-      <Question16/>
+      {/* <Question16/> */}
       {/* <Question17/> */}
       {/* <Question18/> */}
       {/* <Question19/> */}
